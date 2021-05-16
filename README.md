@@ -4,10 +4,6 @@
 
 https://github.com/chronoslou/Team-Profile-Generator
 
-# App Link
-
-https://limitless-inlet-99972.herokuapp.com/
-
 ## Description
 
 This a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Additionally, unit testing for every part of the code has been created to ensure maintainabilty.
